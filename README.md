@@ -1,3 +1,15 @@
+<img width="1212" height="686" alt="Screenshot 2026-05-27 104032" src="https://github.com/user-attachments/assets/ab1f00af-80dd-42e7-aa9d-165a4e076715" />
+<img width="1217" height="684" alt="Screenshot 2026-05-27 104050" src="https://github.com/user-attachments/assets/8e23e832-d96e-4d05-8358-d5238db53c33" />
+<img width="1228" height="683" alt="Screenshot 2026-05-27 104011" src="https://github.com/user-attachments/assets/21a1c073-2e37-4875-a5d4-dde0fec1703c" />
+
+
+
+
+
+
+
+
+
 # power-bi-sales-data
 
 A Power BI sales data analytics project featuring interactive dashboards and insights for sales performance tracking.
